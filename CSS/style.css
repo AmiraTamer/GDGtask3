@@ -1,0 +1,205 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.fsec {
+    text-align: center;
+    background-image: url(../images/bg-header-desktop.png);
+    background-size: cover;
+    background-position: center center;
+    height: 40vh;
+    overflow: auto;
+}
+
+.icn {
+
+    width: 35%;
+    margin: auto;
+}
+
+.fimg {
+
+    background-color: aqua;
+}
+
+.sec1 {
+    text-align: center;
+}
+
+.sec2 {
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.sec3w3 {
+    width: 35%;
+    margin: auto;
+    color: gray;
+}
+
+button {
+    border-radius: 30px;
+    padding: 10px 25px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+
+}
+
+.b2 {
+    margin-left: 5px;
+    background-color: hsl(233, 100%, 69%);
+    border-color: mintcream;
+}
+
+.b1 {
+    margin-right: 5px;
+    background-color: hsl(171deg 69% 35%);
+    border-color: mintcream;
+}
+
+.sec3 {
+    /* text-align: justify; */
+    width: 80%;
+}
+
+.clear-fix {
+    clear: both;
+}
+
+.compd {
+    padding-left: 0px;
+    width: 650px;
+    float: left;
+    height: outo;
+}
+
+.qic1 {
+    margin-top: 50px;
+}
+
+.textd {
+    float: right;
+    width: 30%;
+    margin-left: 5%;
+    padding-left: 0px;
+}
+
+.text {
+    width: 80%;
+    color: gray;
+}
+
+.sec4 {
+    text-align: center;
+    margin: 100px;
+
+}
+
+.sec5 {
+    margin: auto;
+    text-align: center;
+}
+
+.sec6 {
+    text-align: center;
+}
+
+.part2 {
+    width: 30%;
+    display: inline-block;
+
+}
+
+.part3 {
+    width: 30%;
+    margin-right: 40px;
+    display: inline-block;
+}
+
+.part1 {
+    width: 30%;
+    margin-left: 40px;
+    display: inline-block;
+}
+
+.sec7 {
+    margin-top: 80px;
+    width: 100%;
+    text-align: center;
+}
+
+.icons {
+    margin: auto;
+}
+
+.ftext {
+    width: 350px;
+    margin: auto;
+    color: gray;
+}
+
+.logoes {
+    text-align: center;
+    height: 100px;
+
+    margin-top: 50px;
+}
+
+.logo1 {
+    float: left;
+    width: 15%;
+    padding: 10px;
+    margin: 25px;
+    text-align: center;
+
+}
+
+.footer {
+    background-color: gainsboro;
+    height: 120px;
+    margin-top: 30px;
+    padding-top: 30px;
+
+}
+
+.lastpic {
+    width: 70px;
+    padding-right: 50px;
+    margin-right: 50px;
+    float: right;
+
+}
+
+.tabledata {
+    font-size: larger;
+    width: 130px;
+    height: 30px;
+}
+
+.tableimages {
+    width: 50px;
+}
+
+.lasticons {
+    display: inline-block;
+    width: 25%;
+    margin-left: 50px;
+
+}
+
+.lastpicd {
+    display: inline-block;
+    width: 33%;
+
+}
+
+.table {
+    display: inline-block;
+    width: 33%;
+
+}
+
+.clear-fix {
+    clear: both;
+}
